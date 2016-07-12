@@ -7,5 +7,3 @@ EDAMAME website
 http://www.edamamecourse.org/
 
 Change this!
-
-Change it again
