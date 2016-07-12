@@ -7,3 +7,5 @@ EDAMAME website
 http://www.edamamecourse.org/
 
 Change this!
+
+Important changes that I cannot lose if I go back to check out an old version
